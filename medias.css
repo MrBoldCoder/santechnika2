@@ -1,0 +1,1305 @@
+@media (min-width: 2195px) {
+  .landing {
+    max-height: 90vh;
+  }
+}
+
+@media (min-width: 2000px) {
+  .landingtext {
+    margin-left: 12.5%;
+  }
+
+  .servicecards {
+    width: 65%;
+    max-width: 150rem;
+    margin: auto;
+  }
+
+  .cardlogos img {
+    width: 20%;
+  }
+
+  .whymeimgdiv {
+    width: 40%;
+  }
+
+  .whymeflex {
+    width: 80%;
+    max-width: 120rem;
+    margin: 3rem auto;
+  }
+
+  .whyme {
+    padding-bottom: 1rem;
+  }
+
+  .logo {
+    width: 7%;
+  }
+
+  .whymetextdiv p {
+    font-size: 1rem;
+  }
+
+  .quality {
+    width: 70%;
+    max-width: 120rem;
+    padding: 7rem 0;
+    padding-bottom: 3rem;
+  }
+
+  .qualitytext h2 {
+    font-size: 3rem;
+  }
+
+  .firstp,
+  .secondp {
+    font-size: 1.1rem;
+  }
+
+  .menuli {
+    font-size: 1.1rem;
+  }
+
+  .qualitytext {
+    width: 80%;
+    margin-left: 3rem;
+  }
+
+  .container {
+    width: 70%;
+  }
+
+  .text-container {
+    top: 5rem;
+    width: 35%;
+  }
+
+  .text-container h2 {
+    font-size: 1.8rem;
+  }
+
+  .contactp {
+    font-size: 1.3rem;
+  }
+
+  .contactextratext {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    line-height: 1.5;
+  }
+
+  .contactmesection {
+    background-color: #f9f9f9;
+    padding: 4rem 0;
+    padding-bottom: 10rem;
+    max-width: 150rem;
+    margin: auto;
+  }
+
+  .footermaindiv {
+    width: 80%;
+    max-width: 120rem;
+  }
+
+  .footermenu {
+    margin-left: 20%;
+  }
+
+  .footermenuli {
+    font-size: 1.1rem;
+  }
+
+  .bloglili {
+    font-size: 1.1rem;
+  }
+
+  .servicestext {
+    width: 65%;
+  }
+}
+
+@media (max-width: 1500px) {
+  .text-container h2 {
+    font-size: 1.5rem;
+  }
+
+  .container {
+    position: relative;
+    width: 90%;
+  }
+
+  .text-container {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    width: 40%;
+
+    padding: 2rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+  }
+
+  .contactp {
+    font-size: 1.2rem;
+  }
+
+  .contactextratext {
+    font-size: 1rem;
+    margin-top: 1rem;
+  }
+
+  .socials img {
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+  }
+
+  .fbicon {
+    width: 2.5rem !important;
+  }
+
+  .skelbiu {
+    width: 100px !important;
+    height: 28px !important;
+  }
+  .skelbiucontact {
+    width: 120px !important;
+    height: 40px !important;
+  }
+
+  .landingtext {
+    margin-left: 5%;
+    margin-top: 20%;
+    background-attachment: fixed;
+  }
+
+  .landingtext h4 {
+    font-size: 1.4rem;
+  }
+  .landingtext h3 {
+    font-size: 2.5rem;
+  }
+  .landingtext h5 {
+    font-size: 1.1rem;
+  }
+
+  /* FOOTER */
+
+  .footermaindiv {
+    width: 100%;
+  }
+
+  .cardbtn {
+    padding: 1rem 1.5rem;
+    margin-top: 2rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 1300px) {
+  .logoimg {
+    width: 12rem;
+  }
+
+  .quality {
+    width: 90%;
+  }
+
+  .secondtextbackground {
+    width: 90%;
+  }
+
+  .qualitytext {
+    align-items: flex-start;
+  }
+
+  .firstp {
+    width: 90%;
+  }
+
+  .footermaindiv {
+    grid-template-columns: 1fr 1fr 1.3fr;
+  }
+
+  .blogulfooter a {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 1150px) {
+  .aboutmeimg img {
+    width: 75%;
+  }
+
+  .imgtextflex {
+    padding-bottom: 1rem;
+  }
+
+  .aboutmetext h2 {
+    font-size: 2.5rem;
+  }
+
+  .aboutmetext {
+    font-size: 1.1rem;
+  }
+
+  .aboutmeimg {
+    top: -8.85rem;
+  }
+
+  .aboutmetext {
+    width: 50%;
+  }
+}
+
+@media (max-width: 1120px) {
+  .servicecards {
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 60em;
+  }
+}
+
+@media (max-width: 1100px) {
+  .landing {
+    width: 100%;
+  }
+
+  .landingtext {
+    width: 100%;
+    backdrop-filter: blur(10px) saturate(70%);
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0;
+    margin-left: 0;
+    padding-bottom: 5rem;
+    padding-left: 2rem;
+  }
+  .landingtext h4 {
+    font-size: 1.7rem;
+    width: 60%;
+  }
+  .landingtext h3 {
+    font-size: 3rem;
+    width: 80%;
+    margin-top: 1rem;
+  }
+  .landingtext h5 {
+    font-size: 1.3rem;
+    width: 40%;
+  }
+
+  .landingtext h3::after {
+    top: 6rem;
+    left: 23%;
+    margin-left: 1rem;
+    width: 50%;
+    border-bottom: 0.25rem solid #000000;
+    transform: translateX(-50%);
+  }
+
+  .servicestext {
+    width: 90%;
+  }
+
+  .skelbiucontact {
+    width: 110px !important;
+    height: 30px !important;
+  }
+}
+
+@media (min-width: 1030px) {
+  .hamburger {
+    display: none;
+  }
+}
+@media (max-width: 1030px) {
+  .hamburger {
+    display: block;
+    margin-top: 1rem;
+    margin-right: 1.5rem;
+    z-index: 10;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .logo {
+    min-height: 5rem;
+    z-index: 11;
+  }
+
+  .navbar.active {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(270deg, #0080d1 0%, #00a3da 100%);
+    z-index: 10;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .navbar .navul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 2rem 0;
+    margin: 0;
+    list-style: none;
+    margin-top: 4rem;
+  }
+
+  .navbar.active.menuli.menuliblog {
+    margin: 1rem 0;
+    font-size: 1.6rem;
+  }
+
+  .navbar,
+  .active,
+  .menuli,
+  .menuliblog {
+    margin: 1rem 0;
+    font-size: 1.3rem;
+  }
+
+  .navbar.active .calltoaction {
+    margin-top: 2rem;
+  }
+
+  .logo {
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+  }
+
+  header {
+    height: 8vh;
+  }
+
+  .logoimg {
+    width: 9rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .text-container h2 {
+    font-size: 1.2rem;
+    width: 90%;
+  }
+
+  .container {
+    position: relative;
+    width: 95%;
+  }
+
+  .text-container {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    width: 35%;
+  }
+
+  .contactsvg {
+    width: 70%;
+    margin-top: 0.5rem;
+  }
+
+  .socials {
+    width: 70%;
+  }
+
+  .contactp {
+    font-size: 1rem;
+  }
+
+  .contactextratext {
+    font-size: 1rem;
+    margin-top: 0.7rem;
+    width: 70%;
+  }
+
+  .socials img {
+    margin-left: 1rem;
+    margin-top: 1rem;
+  }
+
+  .fbicon {
+    width: 2rem !important;
+  }
+
+  .skelbiu {
+    width: 110px !important;
+    height: 40px !important;
+  }
+  .skelbiucontact {
+    width: 100px !important;
+    height: 40px !important;
+  }
+
+  .paslaugoslogo {
+    width: 4rem !important;
+  }
+
+  /* footer */
+
+  .blogulfooter a {
+    font-size: 1rem;
+  }
+
+  footer li {
+    font-size: 1rem;
+  }
+
+  .footercontact {
+    background-color: #a1a1a39b;
+
+    padding-bottom: 2rem;
+    border: 2rem;
+    border-radius: 4rem 0 4rem 0;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 0 1.5rem 1.5rem;
+    margin-bottom: 1rem;
+    width: 100%;
+  }
+
+  .contactandsocials {
+    max-width: 80%;
+  }
+
+  .footerblogs {
+    margin-right: 1rem;
+  }
+
+  .servicestext {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .servicestoptextleft {
+    width: 70%;
+  }
+  .servicestoptextright {
+    width: 70%;
+  }
+
+  .imgtextflex {
+    flex-direction: column;
+  }
+
+  .imgandtext {
+    background-image: unset;
+  }
+
+  .imgtextflex {
+    min-height: 40vh;
+    width: 100%;
+  }
+
+  .aboutmeimg {
+    background-image: url(media/images/moimgflex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 37vh;
+    width: 100%;
+    position: unset;
+  }
+
+  .aboutmeimg img {
+    display: none;
+  }
+
+  .aboutmetext {
+    max-width: 70%;
+    width: 100%;
+    margin: auto;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    background-image: linear-gradient(270deg, #0080d1 0%, #00a3da 100%);
+    padding: 2rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+  }
+
+  .contactsvg img {
+    width: 12%;
+  }
+
+  .whyme {
+    padding-top: 1rem;
+  }
+
+  .qualitytext h2 {
+    font-size: 2.2rem;
+  }
+
+  .threeimages {
+    margin-top: 3rem;
+  }
+
+  .qualityimg {
+    width: 100%;
+  }
+
+  .qualityimg img {
+    width: 100%;
+  }
+
+  .imgandtext {
+    border-top: 0;
+    padding-top: 3rem;
+  }
+
+  .blogmarginbottom {
+    padding-top: 8rem;
+  }
+
+  .top10blogimg {
+    width: 100%;
+  }
+
+  .version2h2 {
+    font-size: 1.3rem !important;
+  }
+
+  .version2ul {
+    width: 80%;
+  }
+
+  .blog2text {
+    width: 80%;
+  }
+}
+
+@media (max-width: 950px) {
+  .landingtext h3::after {
+    top: 9rem;
+    left: 23%;
+    margin-left: 1rem;
+    width: 50%;
+    border-bottom: 0.25rem solid #000000;
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 850px) {
+  .landingtext h5 {
+    font-size: 1.4rem;
+    width: 90%;
+  }
+
+  .whymeflex {
+    display: block;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .whymeimgdiv {
+    grid-row: 2/3;
+    margin: 3rem 0;
+    width: 60%;
+  }
+
+  .whyme {
+    padding-top: 2rem;
+  }
+
+  .whymetextdiv {
+    width: 90%;
+  }
+
+  .blogmarginbottom {
+    padding-top: 6rem;
+  }
+
+  .blog1h1 {
+    margin: auto;
+    width: 80%;
+  }
+
+  .blog3maintext {
+    width: 90% !important;
+  }
+
+  .blog3text {
+    width: 90% !important;
+  }
+
+  .blog3text span {
+    width: 100%;
+  }
+}
+
+@media (max-width: 840px) {
+  .servicecards {
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    width: 90%;
+  }
+
+  .text-container {
+    width: 40%;
+    padding: 1.5rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    position: absolute;
+    top: 70%;
+    right: 30%;
+  }
+
+  .text-container h2 {
+    font-size: 1.3rem;
+  }
+
+  .contactp {
+    font-size: 1rem;
+  }
+
+  .contactextratext {
+    font-size: 1rem;
+    margin-top: 1rem;
+  }
+
+  .contactmesection {
+    background-color: #f9f9f9;
+    padding: 4rem 0;
+    padding-bottom: 15rem;
+  }
+
+  /* footer */
+
+  .footermaindiv {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    justify-items: center;
+  }
+
+  footer ul {
+    display: inline-block;
+  }
+
+  .contactandsocials {
+    min-width: 100%;
+  }
+
+  .socials img {
+    width: 4rem;
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+  }
+
+  .skelbiu {
+    width: 110px !important;
+    height: 28px !important;
+  }
+
+  .qualitytext h2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 770px) {
+  .landingtext h4 {
+    font-size: 1.8rem;
+  }
+  .landingtext h3 {
+    font-size: 2.8rem;
+  }
+  .landingtext h5 {
+    font-size: 1.4rem;
+    width: 90%;
+  }
+
+  .landingtext {
+    padding-bottom: 5rem;
+  }
+
+  .landingtext h3::after {
+    top: 9rem;
+  }
+
+  .servicestoptextleft {
+    width: 100%;
+    text-align: center;
+  }
+  .servicestoptextright {
+    width: 80%;
+  }
+
+  .text-container {
+    position: absolute;
+    top: 70%;
+    right: 15%;
+    padding: 1.8rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    width: 70%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+      rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  }
+
+  .text-container h2 {
+    width: 100%;
+    font-size: 1.8rem;
+  }
+
+  .contactextratext {
+    font-size: 1.3rem;
+    color: #0080d1;
+  }
+
+  .contactsvg img {
+    width: 10%;
+  }
+
+  .contactp {
+    font-size: 1.2rem;
+  }
+
+  .skelbiu {
+    width: 120px !important;
+    height: 70px !important;
+    margin-left: 0;
+  }
+
+  .socials img {
+    width: 4.5rem;
+    margin-top: 1rem;
+    margin: 0;
+  }
+
+  .fbicon {
+    width: 2.5rem !important;
+  }
+
+  .socials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footersocials {
+    width: 100%;
+  }
+
+  .contactandsocials {
+    max-width: 100rem;
+    width: 100%;
+  }
+
+  .contactsvg {
+    margin-top: 1rem;
+  }
+
+  .contactmesection {
+    padding-bottom: 22rem;
+  }
+
+  .qualitygrid {
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .qualitytext {
+    grid-column: 2/3;
+    grid-row: 1;
+    margin-left: 1.5rem;
+  }
+
+  .quality {
+    width: 95%;
+  }
+
+  .twoimages {
+    display: none;
+  }
+
+  .socials {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 730px) {
+  .skelbiu {
+    width: 90px !important;
+    height: 50px !important;
+    margin-left: 0;
+  }
+
+  .socials img {
+    width: 4rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .landingtext h3::after {
+    top: 8rem;
+  }
+
+  .top10blogdiv {
+    margin-bottom: 0 !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .footermaindiv {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    justify-items: center;
+  }
+
+  .contactandsocials {
+    min-width: unset;
+    max-width: 90%;
+  }
+
+  footer ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .footermenu ul li {
+    margin: 0;
+  }
+
+  .footermenu {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+
+  .footerlogo2 img {
+    width: 100%;
+  }
+
+  .footermenuli::before {
+    width: 30%;
+  }
+
+  footer li {
+    font-size: 1.2rem;
+  }
+
+  .blogulfooter a {
+    font-size: 1.2rem;
+  }
+
+  .blogli1 {
+    font-size: 1.6rem;
+  }
+
+  .contactp {
+    font-size: 1.2rem;
+  }
+
+  .servicecards {
+    grid-template-columns: 1fr;
+    max-width: 50em;
+  }
+
+  .aboutmeimg {
+    width: 40%;
+  }
+
+  .cardbtn {
+    margin-top: 2rem;
+
+    margin-bottom: 3rem;
+  }
+
+  .lastcarddescription {
+    width: 90%;
+    padding-top: 2rem;
+  }
+
+  .servicestext {
+    width: 100%;
+  }
+
+  .servicestoptextleft {
+    width: 100%;
+    font-size: 2.5rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  .servicestoptextright {
+    width: 80%;
+  }
+
+  .aboutmeimg {
+    background-image: url(media/images/moimgflexmin2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    width: 100%;
+    position: unset;
+  }
+
+  .aboutmetext {
+    max-width: 90%;
+  }
+
+  .text-container {
+    right: 15%;
+    width: 70%;
+  }
+
+  .contactsvg {
+    margin-top: 1rem;
+  }
+
+  .skelbiu {
+    width: 120px !important;
+    height: 70px !important;
+    margin-left: 0;
+  }
+
+  .socials img {
+    width: 4.5rem;
+    margin-top: 1rem;
+    margin: 0;
+  }
+
+  .fbicon {
+    width: 2.5rem !important;
+  }
+
+  .socials {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .skelbiu {
+    margin-left: 0.3rem !important;
+  }
+
+  .socials a {
+    margin-right: 0.3rem;
+  }
+
+  .contactmesection {
+    padding-bottom: 25rem;
+  }
+
+  .contactsvg img {
+    width: 12%;
+  }
+
+  .whymetextdiv {
+    width: 100%;
+  }
+
+  .whymeimgdiv {
+    width: 80%;
+  }
+
+  .qualitygrid {
+    grid-template-columns: 1fr;
+  }
+
+  .qualitytext {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    margin-left: 0;
+    align-items: center;
+  }
+
+  .qualitytextimgbelow {
+    display: block;
+    width: 100%;
+  }
+  .qualitytextimgbelow img {
+    display: block;
+    width: 95%;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .threeimages {
+    display: none;
+  }
+
+  .whyme {
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .firstp {
+    width: 100%;
+  }
+
+  .secondtextbackground {
+    width: 100%;
+  }
+
+  .quality {
+    width: 100%;
+  }
+
+  .qualitygrid {
+    width: 90%;
+    margin: auto;
+  }
+
+  .qualitytext h2 {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+  }
+
+  .landingtext h4 {
+    font-size: 1.5rem;
+    width: 95%;
+  }
+  .landingtext h3 {
+    font-size: 2.5rem;
+    width: 95%;
+  }
+  .landingtext h5 {
+    font-size: 1.3rem;
+    width: 95%;
+    margin: 0;
+    margin-top: 3rem;
+  }
+
+  .landingtext {
+    padding-bottom: 0;
+  }
+
+  .landingtext h3::after {
+    top: 8rem;
+  }
+
+  .logo {
+    margin-top: 1rem;
+  }
+
+  header {
+    height: 12vh;
+  }
+
+  .hamburger {
+    margin-top: 1.25rem;
+  }
+
+  .blog1h1 {
+    width: 90%;
+  }
+
+  .blog3h1 {
+    font-size: 1.8em;
+    width: 90%;
+    margin-top: 1rem;
+  }
+
+  .blog3h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .blog3h3 {
+    font-size: 1.2rem;
+  }
+
+  .blog3maintext {
+    width: 90% !important;
+    padding: 0 !important;
+  }
+
+  .blog3text span {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .text-container {
+    right: 7.5%;
+    width: 85%;
+  }
+
+  .whymeimgdiv {
+    width: 90%;
+  }
+
+  .whymetextdiv h2 {
+    font-size: 1.7rem;
+  }
+
+  .servicecards {
+    width: 90%;
+  }
+}
+
+@media (max-width: 420px) {
+  .qualitytext h2 {
+    text-align: center;
+  }
+
+  .redline h2::after {
+    left: 6%;
+  }
+}
+
+@media (max-width: 400px) {
+  .socials img {
+    margin-left: 1rem;
+  }
+
+  .footercontact {
+    padding: 1.5rem 0 2.5rem 1.5rem;
+  }
+
+  .blogli1 {
+    font-size: 1.4rem;
+  }
+
+  .landingtext {
+    margin-top: 3rem;
+  }
+
+  .text-container {
+    right: 5%;
+    width: 90%;
+  }
+
+  .contactmesection {
+    padding-bottom: 27rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .skelbiu {
+    width: 120px !important;
+    height: 70px !important;
+    margin-left: 0;
+  }
+
+  .socials img {
+    width: 3.5rem;
+
+    margin-top: 1rem;
+    margin: 0;
+  }
+
+  .fbicon {
+    width: 2.5rem !important;
+  }
+
+  .qualitytext h2 {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+  }
+
+  .landingtext h4 {
+    font-size: 1.4rem;
+    width: 95%;
+  }
+  .landingtext h3 {
+    font-size: 2.3rem;
+    width: 95%;
+  }
+  .landingtext h5 {
+    font-size: 1.2rem;
+    width: 95%;
+    margin: 0;
+    margin-top: 3rem;
+  }
+
+  .landingtext {
+    padding-bottom: 0;
+    padding-top: 3rem;
+  }
+
+  .landingtext h3::after {
+    top: 8rem;
+  }
+}
+
+@media (max-width: 351px) {
+  .landingtext h3::after {
+    top: 12rem;
+  }
+
+  .landingtext {
+    margin-top: 8rem;
+  }
+
+  .contactmesection {
+    padding-bottom: 30rem;
+  }
+
+  .socials {
+    flex-direction: column;
+  }
+
+  .fbicon {
+    margin-bottom: 1rem;
+  }
+
+  .paslaugoslogo {
+    margin-bottom: 1rem !important;
+  }
+
+  .skelbiu {
+    width: 120px !important;
+    height: 60px !important;
+    margin-left: 0;
+  }
+
+  .socials img {
+    width: 5rem;
+    margin-top: 1rem;
+    margin: 0;
+  }
+
+  .landingbtn {
+    padding: 0.7rem 1.5rem;
+    margin: 2rem;
+    font-size: 1rem;
+  }
+
+  .landingtext {
+    margin-top: 5rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .blogulfooter a {
+    font-size: 1.1rem;
+  }
+
+  .contactmesection {
+    padding-bottom: 23rem;
+  }
+
+  .aboutmeimg {
+    min-height: 40vh;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 1100px) and (max-height: 850px) and (orientation: landscape) {
+  .servicecards {
+    width: 90%;
+  }
+
+  .footermaindiv {
+    grid-template-columns: 0.8fr 1fr 1fr;
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <path fill="#757575" d="M1 16h62v6H1z" opacity="1" data-original="#43525b" class=""/>
+    <path fill="#69737a" d="M1 16h62v4H1z" opacity="1" data-original="#69737a" class=""/>
+    <path fill="#e11a2e" d="M1 9h14a2 2 0 0 1 2 2v42a8 8 0 0 0 8 8h38v-6H25a2 2 0 0 1-2-2V11a8 8 0 0 0-8-8H1z" opacity="1" data-original="#91989d" class=""/>
+    <path fill="#e11a2e" d="M23 53V11a8 8 0 0 0-8-8H1v4h16a2 2 0 0 1 2 2v42a8 8 0 0 0 8 8h36v-4H25a2 2 0 0 1-2-2z" opacity="1" data-original="#aab1b7" class=""/>
+    <path fill="#00a3da" d="M63 42h-9V1h-6v41H37a2 2 0 0 1-2-2v-4a8 8 0 0 0-8-8H1v6h26a2 2 0 0 1 2 2v4a8 8 0 0 0 8 8h26z" opacity="1" data-original="#26669e" class=""/>
+    <path fill="#00a3da" d="M54 1h-4v41H37a2 2 0 0 1-2-2v-4a8 8 0 0 0-8-8H1v4h28a2 2 0 0 1 2 2v4a8 8 0 0 0 8 8h24v-4h-9z" opacity="1" data-original="#307abe" class=""/>
+    <g fill="#225980">
+      <path d="M42 41h4v8h-4zM56 41h4v8h-4zM55 34v4h-8v-4z" fill="#717171" opacity="1" data-original="#225980" class=""/>
+    </g>
+    <path fill="#757575" d="M54 54h4v8h-4zM6 2h4v8H6z" opacity="1" data-original="#43525b" class=""/>
+    <path d="M55 1h-2v32h-4V1h-2v14H24v-4a9.01 9.01 0 0 0-9-9h-4a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1H1v2h4v4H1v2h4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h4a1 1 0 0 1 1 1v4H1v2h15v4H1v2h15v4H1v2h26a7.008 7.008 0 0 1 7 7v4a3 3 0 0 0 3 3h4v4h-4a7.008 7.008 0 0 1-7-7v-4a3 3 0 0 0-3-3H1v2h15v18a9.01 9.01 0 0 0 9 9h28a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h4v-2h-4v-4h4v-2h-4a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1H25a1 1 0 0 1-1-1V35h3a1 1 0 0 1 1 1v4a9.01 9.01 0 0 0 9 9h4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h8a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h2v-2h-2v-4h2v-2h-2a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v-2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1V23h8v-2h-8v-4h8v-2h-8zM9 9H7V3h2zm46 46h2v6h-2zm-30 1h28v4H25a7.008 7.008 0 0 1-7-7V35h4v18a3 3 0 0 0 3 3zm32-14h2v6h-2zm-3-5h-6v-2h6zm-7-20v4H24v-4zM15 8h-4V4h4a7.008 7.008 0 0 1 7 7v16h-4V11a3 3 0 0 0-3-3zm30 40h-2v-6h2zm-3-8a1 1 0 0 0-1 1h-4a1 1 0 0 1-1-1v-4a9.01 9.01 0 0 0-9-9h-3v-4h23v10a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1v2a1 1 0 0 0-1-1zm12 3h1v4h-8v-4h1a1 1 0 0 0 1-1v-3h4v3a1 1 0 0 0 1 1z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+  </g>
+</svg>

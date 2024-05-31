@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <path fill="#f0f4fa" d="M10 16h44v40H10z" opacity="1" data-original="#f0f4fa" class=""/>
+    <path fill="#0080d1" d="M10 4h44v12H10z" opacity="1" data-original="#5783e4" class=""/>
+    <path fill="#b4bec8" d="M12 56h40v4H12z" opacity="1" data-original="#b4bec8"/>
+    <path fill="#e11a2e" d="M44 8h6v4h-6zM15 8h6v4h-6z" opacity="1" data-original="#fadc50" class=""/>
+    <circle cx="38" cy="10" r="2" fill="#b4dbfb" opacity="1" data-original="#b4dbfb"/>
+    <circle cx="32" cy="36" r="16" fill="#0080d1" opacity="1" data-original="#5783e4" class=""/>
+    <circle cx="32" cy="36" r="12" fill="#ffffff" opacity="1" data-original="#ffffff" class=""/>
+    <path fill="#b4dbfb" d="M43.703 36.21A9.991 9.991 0 0 1 32 36a9.991 9.991 0 0 0-11.703-.21L20 36a12 12 0 0 0 24 0z" opacity="1" data-original="#b4dbfb"/>
+    <circle cx="37" cy="32" r="2" fill="#b4dbfb" opacity="1" data-original="#b4dbfb"/>
+    <path d="M54 3H10a1 1 0 0 0-1 1v52a1 1 0 0 0 1 1h1v3a1 1 0 0 0 1 1h40a1 1 0 0 0 1-1v-3h1a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zM11 5h14v10H11zm40 54H13v-2h38zm2-4H11V17h42zm0-40H27V5h26z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+    <path d="M44 13h6a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1zm1-4h4v2h-4zM21 7h-6a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1zm-1 4h-4V9h4z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+    <circle cx="31" cy="10" r="1" fill="#000000" opacity="1" data-original="#000000" class=""/>
+    <path d="M38 13a3 3 0 1 0-3-3 3.003 3.003 0 0 0 3 3zm0-4a1 1 0 1 1-1 1 1 1 0 0 1 1-1zM32 53a17 17 0 1 0-17-17 17.019 17.019 0 0 0 17 17zm0-32a15 15 0 1 1-15 15 15.017 15.017 0 0 1 15-15z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+    <path d="M32 49a13 13 0 1 0-13-13 13.015 13.015 0 0 0 13 13zm0-24a11.004 11.004 0 0 1 10.974 10.484 9.038 9.038 0 0 1-10.365-.277 10.95 10.95 0 0 0-11.435-1.098A11.01 11.01 0 0 1 32 25zm-.61 11.793a10.834 10.834 0 0 0 6.602 2.219 10.949 10.949 0 0 0 4.833-1.118 10.986 10.986 0 0 1-21.799-1.378 9.04 9.04 0 0 1 10.365.277z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+    <path d="M37 35a3 3 0 1 0-3-3 3.003 3.003 0 0 0 3 3zm0-4a1 1 0 1 1-1 1 1 1 0 0 1 1-1z" fill="#000000" opacity="1" data-original="#000000" class=""/>
+  </g>
+</svg>
