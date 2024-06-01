@@ -332,6 +332,7 @@ header {
 .landing {
   background-image: url(media/images/herolanding.jpg);
   min-height: 90vh;
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
