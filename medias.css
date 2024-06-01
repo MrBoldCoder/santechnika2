@@ -5,6 +5,11 @@
 }
 
 @media (min-width: 2000px) {
+
+    .landing {
+    height: 100vh;
+  }
+  
   .landingtext {
     margin-left: 12.5%;
   }
