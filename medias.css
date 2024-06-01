@@ -121,6 +121,11 @@
 }
 
 @media (max-width: 1500px) {
+
+  .landing {
+    height: 100vh;
+  }
+  
   .text-container h2 {
     font-size: 1.5rem;
   }
