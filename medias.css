@@ -1,13 +1,13 @@
-@media (min-width: 2195px) {
+/* @media (min-width: 2195px) {
   .landing {
     max-height: 90vh;
   }
-}
+} */
 
 @media (min-width: 2000px) {
 
-    .landing {
-    height: 100vh;
+  .landing {
+    max-height: 90vh;
   }
   
   .landingtext {
